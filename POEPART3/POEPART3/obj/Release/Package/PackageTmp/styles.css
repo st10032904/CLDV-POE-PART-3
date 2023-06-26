@@ -1,0 +1,26 @@
+﻿body {
+    font-family: monospace;
+    background: black;
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    color: white;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    color: lightcyan;
+}
+
+Label {
+    display: inline;
+    text-align: left;
+}
+
+a{
+    color: lightblue;
+}
